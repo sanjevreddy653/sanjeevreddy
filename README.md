@@ -4,11 +4,6 @@ I'm currently learning
 
 
 ## 🌐 Socials:
-# Hi there 👋 
-### 💫 About Me: 
-I'm currently learning GenAI, Machine Learning, and Data Science.
-
-## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/sanjeev_reddy17)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjeev-reddy-789045342/)
 [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@Sanjeev%20Reddy)
